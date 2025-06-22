@@ -32,8 +32,7 @@
         "generateHighQualityLinkPreview": false,
         "options": {},
         "appStateMacVerification": { "Object": "appStateMacData" },
-        "mobile": true,
-        "desktop": true,
+        "mobile": true
       }
     }
   }
